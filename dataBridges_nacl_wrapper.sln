@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Databridges.NaCl.Wrapper", "src\dataBridges_nacl_wrapper.csproj", "{DB29ECD7-482A-462C-AAE4-F17A01213469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB29ECD7-482A-462C-AAE4-F17A01213469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB29ECD7-482A-462C-AAE4-F17A01213469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB29ECD7-482A-462C-AAE4-F17A01213469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB29ECD7-482A-462C-AAE4-F17A01213469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94B42B61-6EBD-40EE-AD46-05A07427AA40}
+	EndGlobalSection
+EndGlobal
